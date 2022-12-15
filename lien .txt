@@ -1,0 +1,58 @@
+ESP8266, Node.js & MongoDB:
+https://www.youtube.com/watch?v=sKk5viVDMCg
+--------------------------------------------
+Plant Monitor | MongoDB Atlas Hackathon :
+361 vues  12 janv. 2022
+
+https://www.youtube.com/watch?v=vGCJaMlH0_A
+--------------------------------------------
+Send Data From ESP to MySQL Database! Updated 2019 | 100% working:
+https://www.youtube.com/watch?v=y6LRbCTHZGQ
+--------------------------------------------
+ESP and MongoDB, sitting in a tree:TRES IMPORTANT
+https://jimb-cc.medium.com/esp-and-mongodb-sitting-in-a-tree-7d043fb1a4d
+--------------------------------------------
+Plant Monitor - Using IoT, MongoDB and Flutter:
+https://dev.to/sbis04/plant-monitor-mongodb-atlas-hackathon-submission-34j0
+--------------------------------------------
+https://linustechtips.com/topic/1379521-need-help-understanding-this-code-for-uploading-sensor-data-from-an-espressif-esp32-board-to-a-database-on-mongodb/
+--------------------------------------------
+https://bibliotecadigital.ipb.pt/bitstream/10198/25456/1/Jo%C3%A3o%20Valter%20Neto.pdf
+--------------------------------------------
+ESP32 based sensor logging data to MongoDB Atlas - GitHub:
+https://github.com/jimb-cc/houseplant
+--------------------------------------------
+Comment utiliser mongodb sur le cloud (mongodbAtlas):
+https://www.youtube.com/watch?v=BvZA9Yb_FKE
+--------------------------------------------
+très intéressent:
+https://jimb-cc.medium.com/
+--------------------------------------------
+Arduino IDE vs platform.io
+https://platform.io
+http://tvaira.free.fr/dev/tutoriel/platformio.html#:~:text=PlatformIO%20est%20un%20%C3%A9cosyst%C3%A8me%20open,existant%20%3A%20soit%20Atom%20soit%20VSCode.
+--------------------------------------------
+JSON Serialisation and Deserialisation:
+https://arduinojson.org/
+--------------------------------------------
+mongodb-ESP32 :
+https://github.com/JetLi1031/mongodb-ESP32
+--------------------------------------------
+ESP8266 + Arduino + database - Control Anything from Anywhere :
+
+https://www.youtube.com/watch?v=6hpIjx8d15s
+--------------------------------------------
+Utiliser MongoDB et ESP32 pour enregistrer les données des 
+	capteurs dans une base de données NoSQL:
+https://www.youtube.com/watch?v=F4k_PvLr1nY
+
+--------------------------------------------
+
+
+
+
+
+
+
+
+

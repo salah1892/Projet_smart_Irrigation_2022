@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.nav--one {
+  height: 70px;
+  display: flex;
+  
+  /*background-color: blue;*/
+  padding: 20px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  /*justify-content: center;*/
+}
+.nav--logo {
+  height: 40px;
+}
+.nav--title {
+  flex: auto;
+  font-size: x-large;
+  color: steelblue;
+  font: bold;
+  text-align: center;
+}
+.nav--time {
+  color: black;
+  font-style: oblique;
+  font-size: medium;
+  font-weight: bold;
+}
+/*---------------------------------------------------------------------*/
+.main--principal {
+  width: 100%;
+  height: 100vh;
+  /*background-color: aqua;*/
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+}
+.section1 {
+  width: 50%;
+  background-color: red;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+}
+.section2 {
+  width: 50%;
+  background-color: aquamarine;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+/*-------------------------------------------------------------*/
+.milieu {
+  display: flex;
+  flex-direction: row;
+}
+/*-------------------------------------------------------------*/
+.sidebar--main {
+  /*overflow-y: auto;*/
+  background-color: gainsboro;
+  display: flex;
+  flex-direction: row;
+  /*flex-direction: row;*/
+  /*color: bisque;*/
+  width: 15%;
+  height: 100vh;
+  /*---------------*/
+  justify-content: space-around;
+  align-items: flex-start;
+  /*---------------*/
+  font-size: 1.75rem;
+  cursor: pointer;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  /*vertical-align: top;*/
+}
+
+/*------------------------button----------------------------*/
+.sidebar--button {
+  width: 80%;
+  /*height: 80vh;*/
+  height: 80%;
+  padding: 10%;
+  display: table-row;
+  justify-items: flex-start;
+  margin: 10px;
+  position: relative;
+}
+
+button {
+  height: 40px;
+  width: 100%;
+  padding: 10%;
+  justify-items: auto;
+  margin-top: 10%;
+  margin-right: 50%;
+  cursor: pointer;
+  appearance: button;
+  background-color: transparent;
+  background-image: linear-gradient(to bottom, #fff, #f5f4f1);
+  font-family: ui-sans-serif, system-ui, -apple-system, system-ui, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 50%;
+  font-weight: 700;
+  line-height: 0%;
+  text-align: center;
+}
+/*-------------- MAinBoard--------------*/
+.board--main {
+  width: 100%;
+  height: 100vh;
+  /*background-color:darkorange;*/
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.humidity--main {
+  width: 50%;
+  background-color: red;
+  height: 100%;
+  text-align: center;
+}
+.temperature--main {
+  width: 50%;
+  background-color: aquamarine;
+  height: 100%;
+  text-align: center;
+}
+section{
+  padding: 10%;
+}
+/*-----------------------------------------*/
+.statistic--main {
+  width: 100%;
+  height: 100vh;
+  /*background-color: aqua;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+ 
+}
+
+.title--statistic{
+ text-align: center;
+
+}
